@@ -1,0 +1,7 @@
+﻿  code.c
+D:\code\code\code-1.10\code-1.10\code.c(5,12): warning C4087: “getchar”: 用“void”参数列表声明
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  code-1.10.vcxproj -> D:\code\code\code-1.10\x64\Release\code-1.10.exe

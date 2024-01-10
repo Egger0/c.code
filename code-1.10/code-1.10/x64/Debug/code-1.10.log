@@ -1,0 +1,4 @@
+﻿  code.c
+D:\code\code\code-1.10\code-1.10\code.c(5,10): warning C4087: “getchar”: 用“void”参数列表声明
+D:\code\code\code-1.10\code-1.10\code.c(4,13): warning C4305: “初始化”: 从“int”到“char”截断
+LINK : fatal error LNK1168: 无法打开 D:\code\code\code-1.10\x64\Debug\code-1.10.exe 进行写入
